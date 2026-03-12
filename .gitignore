@@ -1,1 +1,10 @@
 .venv/
+Lab_1/iris.csv
+Lab_2/mnist_train.csv
+Lab_4/CelebDF.zip
+Lab_4/FFPP_metadata.csv
+Lab_4/FFPP.zip
+Lab_4/resnet152_adam_best (3).pth
+Lab_4/resnet152_deepfake_final_adam (1).pth
+Lab_4/resnet152_sgd_best (1).pth
+Lab_4/resnet152_weights_adam (1).pth
